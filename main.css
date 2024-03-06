@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+.container {
+    padding: 26px;
+}
+
+#numeroA ,#numeroB{
+    width: 200px;
+    height: 20px;
+   
+}
+
+#formulario{
+    text-align: center;
+}
+
+label{
+    color: white;
+}
